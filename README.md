@@ -25,7 +25,7 @@ during the process.
 
 I am the one that chooses the way to be different, living a normal life is dull,
 I use a [real-prog-dvorak](https://github.com/pseudocc/real-prog-dvorak) keyboard
-layout I created myself. I wrote a serveral NeoVim plugins just for fun and individual
+layout I created myself. I wrote serveral NeoVim plugins just for fun and individual
 need.
 
 My favorite programming languages are C and javascript, I am currently learning
