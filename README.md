@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I want to create my own programming language "pseudoc", and that's how my user
-name comes from (github do not allow me to name myself "pseudoc").
+I wanted to create my own programming language "pseudoc", and that's how my user
+name came from (github do not allow me to name myself "pseudoc").
 
 I am a big fan of the "Rick & Morty" sitcon and enjoy being the rickest geek.
 I like to learn things from real world applications, dive deeply into the essence,
@@ -24,9 +24,7 @@ build my own stuffs from scratch. I treasure self-improvement and feel content
 during the process.
 
 I am the one that chooses the way to be different, living a normal life is dull,
-I use a [real-prog-dvorak](https://github.com/pseudocc/real-prog-dvorak) keyboard
-layout I created myself. I wrote serveral NeoVim plugins just for fun and individual
-need.
+I use a custom keyboard (PCB designed by [Ben Vallack](github.com/benvallack/)).
 
-My favorite programming languages are C and javascript, I am currently learning
-Rust by creating a board game (CLI, HTML+Wasm).
+My favorite programming languages used to be C and javascript, now zig is the new
+king!
