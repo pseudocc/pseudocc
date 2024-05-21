@@ -1,3 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pseudocc&show_icons=true&theme=panda&hide=stars&include_all_commits=false&count_private=true" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseudocc&show_icons=true&count_private=true&hide=stars&theme=aura_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudocc&layout=donut&theme=aura_dark)
